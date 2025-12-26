@@ -20,20 +20,20 @@ public class Condicional {
         }
 
         // Uma alternativa ao if/else é o switch case, dando opcoes de escolha
-        switch (expressão) {
-            case valor1:
-                // código a ser executado se a expressão for igual a valor1
-                break;
-            case valor2:
-                // código a ser executado se a expressão for igual a valor2
-                break;
-            case valor3:
-                // código a ser executado se a expressão for igual a valor3
-                break;
-                // break usado para PARAR o codigo
-            default:
-                // código a ser executado se a expressão não for igual a nenhum valor
-                break;
-        }
+//        switch (expressão) {
+//            case valor1:
+//                // código a ser executado se a expressão for igual a valor1
+//                break;
+//            case valor2:
+//                // código a ser executado se a expressão for igual a valor2
+//                break;
+//            case valor3:
+//                // código a ser executado se a expressão for igual a valor3
+//                break;
+//                // break usado para PARAR o codigo
+//            default:
+//                // código a ser executado se a expressão não for igual a nenhum valor
+//                break;
+//        }
     }
 }
