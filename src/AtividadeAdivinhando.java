@@ -10,7 +10,7 @@ public class AtividadeAdivinhando {
         int i;
 
         System.out.println("----------------------------------------------------------------");
-        System.out.println("Você tem 5 tentativas para acertar o número de 0 a 5, boa sorte!");
+        System.out.println("Você tem 5 tentativas para acertar o número de 0 a 20, boa sorte!");
 
         for(i = 1; i <= 5; i++){
             System.out.println("Digite o número que você acha aqui em baixo:");
