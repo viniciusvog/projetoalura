@@ -25,7 +25,7 @@ public class AtividadeAdivinhando {
                     break;
             } if (usuario > numero) {
                 System.out.println("O número é menor, Tente novamente!");
-            } else if (usuario < numero) {
+            } else {
                 System.out.println("O número é maior, Tente novamente!");
             }
             System.out.println("--------------------------------------------");
