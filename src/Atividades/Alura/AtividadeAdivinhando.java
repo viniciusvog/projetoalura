@@ -1,3 +1,5 @@
+package Atividades.Alura;
+
 import java.util.Scanner;
 import java.util.Random;
 

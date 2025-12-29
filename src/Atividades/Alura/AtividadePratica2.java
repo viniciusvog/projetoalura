@@ -1,3 +1,5 @@
+package Atividades.Alura;
+
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
